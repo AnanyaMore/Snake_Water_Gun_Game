@@ -20,6 +20,7 @@ score = check(comp,user)
 if (score ==0 ):
     print("It's Draw")
 elif (score == -1):
-    print("Youi Lose")
+    print("You Lose")
 else:
     print("You Won")    
+
